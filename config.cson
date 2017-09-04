@@ -1,0 +1,26 @@
+"*":
+  core:
+    audioBeep: false
+    telemetryConsent: "no"
+    themes: [
+      "one-light-ui"
+      "one-light-syntax"
+    ]
+  editor:
+    fontSize: 17
+    scrollPastEnd: true
+    showIndentGuide: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+  "exception-reporting":
+    userId: "ac30c03c-afe6-4fdc-8f66-beb68caa1a4b"
+  latex:
+    enableShellEscape: true
+    opener: "preview"
+    producer: "dvipdf"
+  minimap: {}
+  "pdf-view":
+    fitToWidthOnOpen: true
+    paneToUseInSynctex: "right"
+  welcome:
+    showOnStartup: false
